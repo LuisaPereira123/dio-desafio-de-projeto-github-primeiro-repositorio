@@ -1,0 +1,25 @@
+COMANDOS BÁSICOS-COMMAND LINES
+ 
+
+Windows                 Unix
+→cd                          →cd    → mudar de pasta
+→dir                          →ls   →  listar pastas
+→mkdir                     →mkdir  → criar pasta 
+
+remove oq tem dentro→ del/rmdir ← remove a pasta (windows)
+remove tudo →  rm -rf  ← remove sem perguntar (Unix)
+
+→ cls                          → cntrl +  l → limpar
+→ cd  ..  → voltar (ambos)
+→ TAB   → completar frases (ambos)
+→ echo  → exibir mensagens na tela ou em um arquivo ambos
+
+GitBash 
+
+Comandos:
+
+git config → configuração entre o gitbash e github
+git config --list →lista de todas as configurações do git
+git config  --global --unset  →remove e-mail ou user name
+git status → ver o estado do arquivo ou pasta
+git add . → adiciona coisas autalizadas no arquivo ou pasta

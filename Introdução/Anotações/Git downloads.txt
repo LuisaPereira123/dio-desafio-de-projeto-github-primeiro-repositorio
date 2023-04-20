@@ -1,0 +1,4 @@
+Link para baixar o Git:https://git-scm.com/download
+(O GitBash é um terminal extendido para otimizar o uso do Git).
+
+Link para baixar o GitHub:https://desktop.github.com (ou pode acessar no site https://github.com)
