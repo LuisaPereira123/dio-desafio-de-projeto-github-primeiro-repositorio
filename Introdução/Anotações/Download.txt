@@ -1,0 +1,20 @@
+
+Alguns aplicativos que uso durante o curso
+
+Git
+Link para baixar o Git:
+https://git-scm.com/download
+
+(O GitBash é um terminal extendido para otimizar o uso do Git).
+
+GitHub
+Link para baixar o GitHub:
+https://desktop.github.com (ou pode acessar no site https://github.com)
+
+Vscode
+Link para baixar o Vscode 
+https://code.visualstudio.com
+
+Notepad ++
+Link para baixar o Notepad ++ 
+https://notepad-plus-plus.org/downloads/
